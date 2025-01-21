@@ -127,7 +127,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Support
 For support, please contact:
-- Email: your.email@example.com
+- Email: subhankarpatra2118@gmail.com
 - Issue Tracker: GitHub Issues
 
 ## Acknowledgments
